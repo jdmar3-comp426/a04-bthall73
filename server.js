@@ -35,6 +35,7 @@ app.get("/app/users", (req, res) => {
 });
 
 //req.params.id
+//curl -X GET http://localhost:5000/app/users/
 
 // READ a single user (HTTP method GET) at endpoint /app/user/:id
 
